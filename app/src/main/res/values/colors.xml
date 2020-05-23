@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D81B</color>
+    <color name="colorPrimaryDark">#D81B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="pinkLight">#ffb</color>
+    <color name="blueL">#bbdefb</color>
+
+    <color name="colorSecondaryDark">#525188</color>
+    <color name="colorSecondary">#6c6b99</color>
+    <color name="colorSecondaryLight">#adacd1</color>
+    <color name="colorSecondaryVeryLight">#c5cae9</color>
+    <color name="textColorBrown">#8a584b</color>
+    <color name="com_facebook_button_login_silver_background_color_pressed">#e9eaf0</color>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254512839217",
+    "firebase_url": "https://the-quiz-fever.firebaseio.com",
+    "project_id": "the-quiz-fever",
+    "storage_bucket": "the-quiz-fever.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254512839217:android:dcfd9bf0c7d3be70",
+        "android_client_info": {
+          "package_name": "com.example.thequizfever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254512839217-9o4k0g1bfbvu76l526cerard4hkub6s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lv7u900HY8ztvraAWD9vMG2i9a6gqPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254512839217-9o4k0g1bfbvu76l526cerard4hkub6s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
